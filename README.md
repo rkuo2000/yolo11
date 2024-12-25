@@ -14,4 +14,8 @@ YOLO11 是 Ultralytics YOLO 系列即時物體偵測器的最新版本，以尖�
 
 ## 支援的任務和模式
 YOLO11 基於 YOLOv8 中引入的多功能模型系列構建，為各種計算機視覺任務提供增強的支援：
+![](https://github.com/rkuo2000/yolo11/blob/main/assets/YOLO11_tasks_and_modes.png?raw=true)
+
+## 效能指標
 ![]()
+
